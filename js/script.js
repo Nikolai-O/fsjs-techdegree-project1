@@ -22,7 +22,7 @@ const quote2 = {
   source:"Colonel John Matrix",
   citation:"Commando",
   year:"1985",
-  comment:"Just classic!"
+  comment:"(Just classic! :D)"
 }
 const quote3 = {
   quote:"Consider that a divorce!",
